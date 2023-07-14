@@ -2,15 +2,15 @@
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on Finexus Sdn Bhd **Kayaaku E-Wallet**
+- 🔭 I’m currently working on Finexus Sdn Bhd on a project named **Kayaaku E-Wallet**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android, Web Application**
+- 💬 Interest in **mobile app development and cyber-security**.
 
 - 📫 How to reach me **mhidayat385@gmail.com**
 
-- ⚡ Fun fact **I am Hardworking**
+- ⚡ Developing a system for learning and fun.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
