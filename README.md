@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on Finexus Sdn Bhd on a project named **Kayaaku E-Wallet**
+- 🔭 I’m currently working on Sena Traffic System Sdn. Bhd 
 
 - 🌱 I’m currently learning **React Native**
 
