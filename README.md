@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Sena Traffic System Sdn. Bhd 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React and Java**
 
 - 💬 Interest in **mobile app development and cyber-security**.
 
