@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and Java**
 
-- 💬 Interest in **mobile app development and cyber-security**.
+- 💬 Interest in **web-developer and backend developer**.
 
 - 📫 How to reach me **mhidayat385@gmail.com**
 
